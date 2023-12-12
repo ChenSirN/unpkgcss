@@ -1,0 +1,11 @@
+{
+  "name": "@chensirn/unpkgcss",
+  "version": "0.0.6",
+  "description": "leakcss for 0ctf2023 newdiary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ch3ns1r",
+  "license": "ISC"
+}
