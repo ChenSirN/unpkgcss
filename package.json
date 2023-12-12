@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenSirN/unpkgcss.git"
+  },
   "author": "ch3ns1r",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenSirN/unpkgcss/issues"
+  }
 }
